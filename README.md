@@ -4,11 +4,11 @@ It coverts a text file to a CSV dictionary table
 Requirements: nltk package, to install do `pip install nltk`
 
 # Usage
-Run `python text2dict.py <path to text file>`. It will output the "unique_words.csv" file.
+Run `python text2dict.py <path to text file>`. It will output the `"unique_words.csv"` file.
 
 Run `python text2dict.py --help` to see what abbreviations in the output CSV file mean.
 
-Also there is an utility script `./extras/dumpfb2.py` that dumps fb2 file to a plain text file. Output file will have a ".txt" extension.
+Also there is an utility script `./extras/dumpfb2.py` that dumps fb2 file to a plain text file. Output file will have a `".txt"` extension.
 
 # Output
 CSV columns are:
