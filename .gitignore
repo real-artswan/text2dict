@@ -1,3 +1,4 @@
 *.fb2
 .vscode
 stanford-ner-2018-10-16
+*.txt
