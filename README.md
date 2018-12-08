@@ -16,3 +16,5 @@ CSV columns are:
 *(v)* stands for verb and *(n)* stands for noun, other values mean that lemma was not found and original word was used instead
 
 *FORMS...* this column and all next columns contain forms of words exist in the text and keyed by STEM
+
+Run with `--help` to see what abbreviations in the CSV file mean
