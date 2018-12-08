@@ -4,8 +4,9 @@ It coverts a text file to a CSV dictionary table
 Requirements: nltk package, to install do `pip install nltk`
 
 # Usage
-Run `python text2dict.py <path to text file>`
-Also there is an utility script `./extras/dumpfb2.py` that can dump fb2 file to a plain text file
+Run `python text2dict.py <path to text file>`.
+
+Also there is an utility script `./extras/dumpfb2.py` that can dump fb2 file to a plain text file.
 
 # Output
 CSV columns are:
